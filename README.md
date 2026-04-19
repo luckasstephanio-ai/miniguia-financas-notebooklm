@@ -1,5 +1,11 @@
 # 📘 MiniGuia Estudos: Análise Financeira com LLMs no NotebookLM
+<div align="center">
+  <img src="https://img.shields.io/badge/DIO-Project-blue?style=for-the-badge&logo=codecademy" alt="DIO Project">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License MIT">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status Completed">
+</div>
 
+<br>
 > Projeto prático DIO: Aprendizagem Ativa com IA no NotebookLM  
 > 👤 Por **Luckas Stephanio** | 
 ## 🎯 Contexto e Objetivos
