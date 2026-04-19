@@ -9,7 +9,7 @@
 <br>
 
 > Projeto prático DIO: Aprendizagem Ativa com IA no NotebookLM  
-> 👤 Por **Luckas Stephanio** | 📍 Guarulhos/SP | 🗓️ Abril/2026
+> 👤 Por **Luckas Stephanio** 
 
 ---
 
